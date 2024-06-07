@@ -1,0 +1,4 @@
+﻿  demo-Jan-22.cpp
+C:\Users\Tarek\source\C++\demo-Jan-22\demo-Jan-22\demo-Jan-22.cpp(37,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\demo-Jan-22\demo-Jan-22\demo-Jan-22.cpp(41,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  demo-Jan-22.vcxproj -> C:\Users\Tarek\source\C++\demo-Jan-22\x64\Debug\demo-Jan-22.exe
