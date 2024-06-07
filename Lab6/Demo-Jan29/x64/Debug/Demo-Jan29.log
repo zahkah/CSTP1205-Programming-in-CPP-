@@ -1,0 +1,12 @@
+﻿  Demo-Jan29.cpp
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(16,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(25,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(34,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(39,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Sentence.cpp
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(16,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(25,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(34,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek\source\C++\Demo-Jan29\Demo-Jan29\Sentence.h(39,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Demo-Jan29.vcxproj -> C:\Users\Tarek\source\C++\Demo-Jan29\x64\Debug\Demo-Jan29.exe
