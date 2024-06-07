@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (demo-Jan-11.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  demo-Jan-15.cpp
+  utilities.cpp
+  Generating Code...
+demo-Jan-15.obj : error LNK2019: unresolved external symbol "int __cdecl myMax2<int>(int,int)" (??$myMax2@H@@YAHHH@Z) referenced in function main
+C:\Users\Tarek\source\C++\demo-Jan-11\x64\Debug\demo-Jan-15.exe : fatal error LNK1120: 1 unresolved externals
