@@ -1,0 +1,4 @@
+﻿  Week-1-demo.cpp
+C:\Users\000459215\Downloads\demo Jan 4\demo Jan 4\Week-1-demo\Week-1-demo.cpp(108,17): error C3861: 'myMax2': identifier not found
+C:\Users\000459215\Downloads\demo Jan 4\demo Jan 4\Week-1-demo\Week-1-demo.cpp(109,10): error C2065: 'result1': undeclared identifier
+C:\Users\000459215\Downloads\demo Jan 4\demo Jan 4\Week-1-demo\Week-1-demo.cpp(123,64): warning C4305: 'argument': truncation from 'double' to 'float'
