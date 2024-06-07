@@ -1,0 +1,11 @@
+﻿  Application.cpp
+  ApplicationMenu.cpp
+  Drive.cpp
+  DriveMenu.cpp
+  Entity.cpp
+  Folder.cpp
+  Menu.cpp
+  MenuItem.cpp
+  navigation.cpp
+  Generating Code...
+  navigation.vcxproj -> C:\Users\Tarek\source\C++\navigation\x64\Debug\navigation.exe
