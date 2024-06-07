@@ -1,0 +1,3 @@
+﻿  assignment3_feb_12.cpp
+D:\VCC\Winter 2024\CSTP 1205 (C++)\assignment3_feb_12\assignment3_feb_12.cpp(31,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  assignment3_feb_12.vcxproj -> D:\VCC\Winter 2024\CSTP 1205 (C++)\assignment3_feb_12\x64\Debug\assignment3_feb_12.exe
